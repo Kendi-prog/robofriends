@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Kendi-prog/Robot_Friends/static/css/main.61d906b4.css",
+    "main.js": "/Kendi-prog/Robot_Friends/static/js/main.6b034d4a.js",
+    "static/js/453.eceb90f9.chunk.js": "/Kendi-prog/Robot_Friends/static/js/453.eceb90f9.chunk.js",
+    "static/media/SEGA.woff": "/Kendi-prog/Robot_Friends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/Kendi-prog/Robot_Friends/index.html",
+    "main.61d906b4.css.map": "/Kendi-prog/Robot_Friends/static/css/main.61d906b4.css.map",
+    "main.6b034d4a.js.map": "/Kendi-prog/Robot_Friends/static/js/main.6b034d4a.js.map",
+    "453.eceb90f9.chunk.js.map": "/Kendi-prog/Robot_Friends/static/js/453.eceb90f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61d906b4.css",
+    "static/js/main.6b034d4a.js"
+  ]
+}
